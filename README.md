@@ -8,6 +8,8 @@ python .ASCII.py
 
 Vous pouvez également générer une nouvelle image a chaque ouverture de Terminale (sous Ubuntu) en ajoutant a la fin du fichier ~/.bashrc : 
 
+```python
 if [ -f ~/ASCII-ART-Generator/.ASCII.py ]; then
     python ~/ASCII-ART-Generator/.ASCII.py
 fi
+```
