@@ -1,4 +1,4 @@
-# ASCI-ART-Generator
+# ASCII-ART-Generator
 
 Un petit generateur d'image en ASCII ART qui affiche aléatoirement une image provenant de la base de donnée disponible ici : http://www.ascii-art.de/ 
 
